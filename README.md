@@ -1,133 +1,241 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishnamoorthy%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Pre-Final%20Year%20CSE%20%7C%20ML%20%26%20Security%20Systems%20Builder&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A0533,0D0D1F,1A0A2E&height=200&section=header&text=KRISHNAMOORTHY%20K&fontSize=44&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=%3C%2F%3E%20Neural%20Hacker%20%7C%20ML%20Architect%20%7C%20Security%20Systems%20Builder&descAlignY=60&descSize=15" />
 </p>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Krishnamoorthy+%F0%9F%91%8B;ML+Engineer+%7C+Security+Systems+Builder;Turning+Data+into+Decisions+%F0%9F%A4%96;Building+Self-Healing+Systems+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=%5BSYS%3A+ONLINE%5D+Initializing+Profile...;%3E+Krishnamoorthy+K+%7C+ML+%26+Security+Engineer;%3E+Building+Self-Healing+Systems+%F0%9F%9B%A1%EF%B8%8F;%3E+Bridging+Research+%2B+Real-World+ML+%F0%9F%A4%96;%3E+chmod+%2Bx+future.sh+%26%26+.%2Ffuture.sh" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KRISHNA-K19&style=flat-square&color=00ffff&label=SYSTEM+VISITS&labelColor=0d1117" />
+  &nbsp;
+  <a href="https://linkedin.com/in/krishnamoorthykumar">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=flat-square&logo=linkedin&logoColor=0d1117&labelColor=0d1117&color=00ffff" />
+  </a>
+  &nbsp;
+  <a href="mailto:krishnamoorthyk.cse@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-FF2D55?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117&color=FF2D55" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/KRISHNA-K19">
+    <img src="https://img.shields.io/badge/GITHUB-BF00FF?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=BF00FF" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KRISHNA-K19&style=flat-square&color=70a5fd&label=Profile+Views" />
-  <a href="https://linkedin.com/in/krishnamoorthykumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:krishnamoorthyk.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/KRISHNA-K19"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
 
-🧑‍💻 About Me
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-pythonclass Krishnamoorthy:
-    name       = "Krishnamoorthy K"
-    location   = "Chennai, Tamil Nadu, India"
-    degree     = "B.E. Computer Science Engineering (Pre-Final Year)"
-    cgpa       = 8.3
+---
 
-    stack = [
-        "Python", "FastAPI", "Next.js 14",
-        "scikit-learn", "XGBoost", "SHAP",
-        "Docker", "PostgreSQL (Supabase)"
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗              ║
+║  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝              ║
+║  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗                ║
+║  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝                ║
+║  ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗              ║
+║  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝  v2.5       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  STATUS: ACTIVE  |  LOCATION: Chennai.IN  |  BUILD: STABLE         ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+## `> WHOAMI`
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+#!/usr/bin/env python3
+# UNIT: KRISHNAMOORTHY_K | CLEARANCE: LEVEL_2
+
+class NeuralAgent:
+    identity   = "Krishnamoorthy K"
+    node       = "Chennai, Tamil Nadu, India"
+    unit       = "B.E. CSE — Pre-Final Year"
+    integrity  = "8.3 / 10 CGPA"
+
+    core_stack = [
+        "Python", "FastAPI", "scikit-learn",
+        "XGBoost", "SHAP", "Docker",
+        "Next.js 14", "PostgreSQL"
     ]
 
-    currently_learning = [
+    protocols_loading = [
         "Applied ML Research",
         "Explainable AI (XAI)",
         "MLOps & CI/CD Pipelines"
     ]
 
-    fun_fact = "I built a self-healing security system in 30 hours 🛡️"
+    classified = "Built a self-healing security AI in 30 hours 🛡️"
 
-    def motto(self):
+    def directive(self) -> str:
         return "Bridge research methodology with real-world ML deployment."
+
+agent = NeuralAgent()
+print(f"[BOOT] Unit '{agent.identity}' is ONLINE.")
+```
+
 <br clear="right"/>
 
-🛠️ Tech Stack
-Languages
-Show Image
-Show Image
-Show Image
-Machine Learning & AI
-Show Image
-Show Image
-Show Image
-Show Image
-Backend & APIs
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Frontend & Database
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Tools & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
+---
 
-📊 GitHub Stats
+## `> TECH_ARSENAL --list-all`
+
+**`// LANGUAGES`**
+
+![Python](https://img.shields.io/badge/PYTHON-00FFFF?style=flat-square&logo=python&logoColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFE900?style=flat-square&logo=javascript&logoColor=0d1117)
+![C](https://img.shields.io/badge/C-BF00FF?style=flat-square&logo=c&logoColor=white)
+
+**`// ML & NEURAL SYSTEMS`**
+
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-FF2D55?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBOOST-00FFFF?style=flat-square&logoColor=0d1117)
+![SHAP](https://img.shields.io/badge/SHAP_XAI-BF00FF?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=00FFFF)
+
+**`// BACKEND GRID`**
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=00FFFF)
+![WebSockets](https://img.shields.io/badge/WEBSOCKETS-FF2D55?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-00FFFF?style=flat-square&logo=docker&logoColor=0d1117)
+![REST API](https://img.shields.io/badge/REST_API-BF00FF?style=flat-square&logoColor=white)
+
+**`// FRONTEND MATRIX`**
+
+![Next.js](https://img.shields.io/badge/NEXT.JS-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=0d1117)
+![React](https://img.shields.io/badge/REACT-00FFFF?style=flat-square&logo=react&logoColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=0d1117)
+![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=00FFFF)
+
+**`// DATA VAULTS`**
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=00FFFF)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=0d1117)
+
+**`// DEPLOY & OPS`**
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-FFFFFF?style=flat-square&logo=vercel&logoColor=0d1117)
+![Render](https://img.shields.io/badge/RENDER-46E3B7?style=flat-square&logo=render&logoColor=0d1117)
+![GitHub](https://img.shields.io/badge/GITHUB-BF00FF?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## `> SYSTEM_METRICS --username KRISHNA-K19`
+
 <div align="center">
   <a href="https://github.com/KRISHNA-K19">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=KRISHNA-K19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=KRISHNA-K19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FFFF&icon_color=BF00FF&text_color=c9d1d9&border_radius=6&ring_color=FF2D55" />
   </a>
   <a href="https://github.com/KRISHNA-K19">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-K19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-K19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9&langs_count=8&border_radius=6" />
   </a>
 </div>
 
-🔥 Streak Stats
+---
+
+## `> STREAK_COUNTER --live`
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KRISHNA-K19&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=KRISHNA-K19&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFFF&fire=FF2D55&currStreakLabel=00FFFF&sideLabels=BF00FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=6" />
 </p>
 
-📈 Activity Graph
+---
+
+## `> TRACE_ACTIVITY --graph`
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHNA-K19&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHNA-K19&theme=tokyo-night&bg_color=0d1117&color=00FFFF&line=BF00FF&point=FF2D55&area=true&hide_border=true" />
 </p>
 
-🏆 Trophy Wall
+---
+
+## `> TROPHY_CACHE --display`
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KRISHNA-K19&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </p>
 
-💼 Work Experience
+---
+
+## `> MISSION_LOG --classified`
+
 <details>
-<summary><strong>🔬 Astra Lab — ML & Security Systems Developer · 2025 – Present · Chennai</strong></summary>
+<summary><code>🔴 [ACTIVE] ML &amp; Security Systems — Astra Lab · Chennai · 2025–Present</code></summary>
 
-Show Image Show Image Show Image Show Image
+> ![Python](https://img.shields.io/badge/-Python-00FFFF?style=flat-square&logo=python&logoColor=0d1117)
+> ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=00FFFF)
+> ![scikit-learn](https://img.shields.io/badge/-scikit--learn-FF2D55?style=flat-square&logo=scikitlearn&logoColor=white)
+> ![Docker](https://img.shields.io/badge/-Docker-00FFFF?style=flat-square&logo=docker&logoColor=0d1117)
 
-
-Built and deployed production ML systems integrating real-time anomaly detection, automated incident response, and explainable AI pipelines.
-Developed CI/CD pipelines from GitHub to Render (backend) and Vercel (frontend) with environment variable management and CORS middleware.
-Worked across the full ML lifecycle — data preprocessing, model benchmarking, REST API serving, and frontend dashboards.
+- Engineered production ML systems with real-time anomaly detection and automated incident response pipelines.
+- Implemented CI/CD from GitHub → Render (backend) and Vercel (frontend) with CORS middleware and environment management.
+- Operated across the full ML lifecycle — feature engineering, model benchmarking, REST API deployment, and live dashboards.
 
 </details>
 
-🚀 Featured Projects
+---
+
+## `> PROJECT_DATABASE --top-classified`
+
 <div align="center">
-ProjectStackHighlightsAutoShield v2.5 🛡️Python · FastAPI · scikit-learn · Next.js · WebSocketsReal-time ML threat detection; multi-class classifier (Low/Medium/High); automated IP blocking & self-healing recovery; 3rd Prize @ 30-Hour HackathonChurn Prediction Platform 📊Python · XGBoost · SHAP · FastAPI · Next.js 14 · DockerEnd-to-end ML pipeline on IBM Telco (7,043 records); ROC-AUC 84.59%; SHAP explainability; Revenue Impact Calculator with PDF export; Dockerized CI/CD
+
+| `//` | Project | Stack | Intel |
+|------|---------|-------|-------|
+| 🔴 | [**AutoShield v2.5**](https://github.com/KRISHNA-K19) — AI Self-Healing Security | Python · FastAPI · scikit-learn · Next.js · WebSockets | Multi-class ML classifier (Low/Med/High); automated IP blocking, process termination, self-healing recovery; built in **30 hours** |
+| 🟣 | [**Churn Prediction Platform**](https://github.com/KRISHNA-K19) — ML Analytics | Python · XGBoost · SHAP · FastAPI · Next.js 14 · Docker | 7,043 records pipeline; **ROC-AUC 84.59%**; SHAP explainability; Revenue Impact Calculator w/ PDF export; Dockerized CI/CD |
+
 </div>
 
-🏅 Achievements
+---
+
+## `> ACHIEVEMENT_NODES --unlocked`
+
 <div align="center">
-🏆AchievementDetails🥉S.A. Engineering College Hackathon3rd Prize — AutoShield v2.5 built end-to-end in 30 hours📜Full Stack Developer BootcampWebzenith Solutions — Apr 2026📜Data Science for EngineersNPTEL — Mar 2026📜Java ProgrammingHackerRank — Oct 2025📜Python EssentialsCisco Networking Academy — May 2025🎓IIT Madras WorkshopBuilding & Experimenting with Large Language Models — Jan 2026🧬DNA-Based Data Storage SeminarVel Tech Engineering College — Sep 2025
+
+| SIG | Node | Data |
+|-----|------|------|
+| 🥉 | **S.A. Engineering College Hackathon** | 3rd Prize · AutoShield v2.5 · Built in **30 hours** |
+| ⚡ | **Full Stack Developer Bootcamp** | Webzenith Solutions · Apr 2026 |
+| 📡 | **Data Science for Engineers** | NPTEL · Mar 2026 |
+| 💻 | **Java Programming** | HackerRank Certified · Oct 2025 |
+| 🐍 | **Python Essentials** | Cisco Networking Academy · May 2025 |
+| 🧠 | **LLMs Workshop — IIT Madras** | SHAAST · Jan 2026 |
+| 🧬 | **DNA-Based Data Storage** | Vel Tech · Sep 2025 |
+| ⚡ | **EV Battery Technology Seminar** | TNSCST · Mar 2025 |
+
 </div>
 
-🎓 Education
+---
+
+## `> EDUCATION_RECORDS --access-granted`
+
 <div align="center">
-DegreeInstitutionYearScoreB.E. Computer Science EngineeringS.A. Engineering College, Chennai2024 – Present8.3 / 10 CGPAHigher Secondary Certificate (XII)St. Claret Matric Hr. Sec. School, Chennai202473.6%Secondary School Certificate (X)SKMM Vivekananda Vidyalaya, Chennai202285%
+
+| Credential | Institution | Year | Score |
+|-----------|------------|------|-------|
+| `B.E. Computer Science Engineering` | S.A. Engineering College, Chennai | 2024 – Present | **8.3 / 10** |
+| `HSC — Class XII` | St. Claret Matric Hr. Sec. School | 2024 | 73.6% |
+| `SSLC — Class X` | SKMM Vivekananda Vidyalaya | 2022 | **85%** |
+
 </div>
 
-🧱 Currently Learning
-🤖 Applied ML Research     →  Model selection, hyperparameter tuning, benchmark datasets
-🔍 Explainable AI (XAI)    →  SHAP, LIME, feature attribution methods
-⚙️  MLOps & CI/CD          →  Docker, GitHub Actions, Render, Vercel deployments
-🔒 Security Systems        →  Anomaly detection, real-time threat classification
-🌐 Full Stack ML Apps      →  FastAPI + Next.js 14 + Supabase integration
+---
+
+## `> SKILL_UPGRADE --in-progress`
+
+```
+[████████░░]  🤖  Applied ML Research     →  Model selection, benchmark datasets, research papers
+[██████░░░░]  🔍  Explainable AI (XAI)   →  SHAP, LIME, feature attribution, interpretability
+[████████░░]  ⚙️   MLOps & CI/CD          →  Docker, GitHub Actions, Render, Vercel
+[███████░░░]  🛡️   Security Systems       →  Anomaly detection, real-time threat classification
+[██████░░░░]  🌐  Full Stack ML Apps      →  FastAPI + Next.js 14 + Supabase integration
+```
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A0533,0D0D1F,1A0A2E&height=130&section=footer&animation=twinkling" />
+</p>
+
+<p align="center">
+  <sub><code>// EOF — KRISHNAMOORTHY_K · PROCESS TERMINATED · STATUS: LEGEND</code></sub>
 </p>
