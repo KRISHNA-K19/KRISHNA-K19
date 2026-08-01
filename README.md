@@ -1,125 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0B1F18,75:0F2D22,100:111827&height=210&section=header&text=KRISHNAMOORTHY%20K&fontSize=44&fontColor=F0FDF4&fontAlignY=37&desc=ML%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20SECURITY%20%E2%80%A2%20RESEARCH&descAlignY=61&descSize=15&descColor=86EFAC"/>
+# KRISHNAMOORTHY K
 
-<br>
+### `Computer Science Engineering` · `Machine Learning` · `Software Engineering`
 
-```text
-krishnamoorthy@github:~$ whoami
-
-Computer Science Engineering Student
-Machine Learning • Software Engineering • Computer Systems Research
-
-krishnamoorthy@github:~$ ./focus.sh
-
-[+] Applied Machine Learning
-[+] Backend & Full-Stack Systems
-[+] Security-Oriented Software
-[+] Binary-Level Program Analysis
-```
+**Building practical ML systems and engineering software beyond the notebook.**
 
 <br>
 
 <a href="https://github.com/KRISHNA-K19">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=7EE787"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7EE787"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/krishnamoorthykumar">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="mailto:krishnamoorthyk.cse@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,js,c,fastapi,nextjs,docker,postgres,git" />
+
 </div>
 
 ---
 
+<div align="center">
+
 ```text
-┌──[ krishnamoorthy@github ]──[ ~/profile ]
-└─$ cat about.txt
+$ whoami
+
+krishnamoorthy
+
+$ cat focus
+
+machine-learning
+software-engineering
+security-systems
+computer-systems-research
 ```
 
-I'm a **Computer Science Engineering student** focused on building practical systems around **machine learning, backend engineering, security, and computer systems research**.
-
-My work moves beyond model experimentation into complete applications — combining data pipelines, model evaluation, APIs, databases, interfaces, and deployment.
-
-Currently exploring **Applied ML · Explainable AI · Security Systems · MLOps · Binary Analysis**.
+</div>
 
 ---
 
-```text
-┌──[ krishnamoorthy@github ]──[ ~/stack ]
-└─$ ls -la
-```
+<div align="center">
+
+## SELECTED WORK
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### `ml/`
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="42"/>
+### RETAINIQ
 
-```text
-Python
-scikit-learn
-XGBoost
-SHAP
-Pandas
-```
+**AI Customer Churn & Retention**
+
+</div>
+
+An end-to-end ML platform for predicting customer churn and supporting retention decisions.
+
+<br>
+
+`Python` `scikit-learn` `XGBoost`
+`SHAP` `FastAPI` `Next.js`
+`PostgreSQL` `Docker`
+
+<br>
+
+|          |                   |
+| -------- | ----------------: |
+| Dataset  | **7,043** records |
+| Features |            **21** |
+| ROC-AUC  |        **84.59%** |
+
+<br>
+
+**Built for production-style ML workflows**
+
+Model benchmarking · explainability · real-time inference · prediction persistence · revenue analysis · PDF reporting
+
+<br>
+
+<div align="center">
+
+**[ EXPLORE → ](https://github.com/KRISHNA-K19)**
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `systems/`
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker" width="90"/>
+### AUTOSHIELD
 
-```text
-FastAPI
-REST APIs
-WebSockets
-Docker
-```
+**ML Security & Automated Response**
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" valign="top">
+A machine-learning security system for real-time threat classification and automated response.
 
-### `frontend/`
+<br>
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs" width="135"/>
+`Python` `FastAPI` `scikit-learn`
+`Next.js` `WebSockets`
 
-```text
-JavaScript
-React
-Next.js
-Tailwind CSS
-```
+<br>
 
-</td>
+|             |               |
+| ----------- | ------------: |
+| Development |  **30 hours** |
+| Result      | **3rd Prize** |
+| Domain      |  **Security** |
 
-<td width="50%" valign="top">
+<br>
 
-### `data/infra/`
+**Real-time security pipeline**
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,git,github" width="180"/>
+Threat classification · WebSocket monitoring · automated IP blocking · process termination · ML-backed API
 
-```text
-PostgreSQL
-Supabase
-Git
-GitHub
-Vercel
-Render
-```
+<br>
+
+<div align="center">
+
+**[ EXPLORE → ](https://github.com/KRISHNA-K19)**
+
+</div>
 
 </td>
+
 </tr>
 </table>
 
@@ -127,378 +146,83 @@ Render
 
 <div align="center">
 
-# `~/projects`
+## RESEARCH
 
-<sub>Selected systems I've built</sub>
+### ASTRA Lab · IIT Madras
 
-</div>
-
-<br>
-
-```text
-krishnamoorthy@github:~/projects$ ./retainiQ
-```
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<div align="center">
-
-# RETAINIQ
-
-### `AI Customer Churn & Retention Analytics`
-
-<img src="https://img.shields.io/badge/ML-0D1117?style=flat-square&logoColor=7EE787"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D8A4"/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SHAP-0D1117?style=flat-square&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+**Refining Indirect Call Targets at the Binary Level**
 
 </div>
 
 <br>
-
-```text
-$ cat project.info
-
-TYPE       : End-to-End Machine Learning Platform
-DATASET    : IBM Telco Customer Churn
-RECORDS    : 7,043
-FEATURES   : 21
-BEST AUC   : 84.59%
-```
-
-**Pipeline**
-
-```text
-DATA
-  │
-  ▼
-PREPROCESSING
-  │
-  ▼
-MODEL BENCHMARKING
-  ├── Logistic Regression
-  ├── Random Forest
-  └── XGBoost
-  │
-  ▼
-MODEL SELECTION
-  │
-  ▼
-SHAP EXPLAINABILITY
-  │
-  ▼
-FASTAPI INFERENCE
-  │
-  ├── PostgreSQL / Supabase
-  └── Next.js Application
-```
-
-**Implemented**
-
-* Model benchmarking across multiple classification approaches.
-* Real-time churn probability inference through FastAPI.
-* SHAP-based feature attribution and explainability.
-* Persistent prediction storage using Supabase PostgreSQL.
-* Revenue Impact Calculator for retention analysis.
-* Downloadable PDF reporting.
-* Dockerized application deployment.
-
-<div align="center">
-
-**`[ repository → ]`**
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```text
-krishnamoorthy@github:~/projects$ ./autoshield
-```
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<div align="center">
-
-# AUTOSHIELD
-
-### `ML Security & Automated Response System`
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D8A4"/>
-<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square&logoColor=58A6FF"/>
-
-</div>
-
-<br>
-
-```text
-$ systemctl status autoshield
-
-● detection-engine     ACTIVE
-● classification       ACTIVE
-● websocket-stream     ACTIVE
-● response-engine      ACTIVE
-● monitoring-ui        ACTIVE
-```
-
-**System**
-
-```text
-Security Event
-      │
-      ▼
-ML Classification
-      │
- ┌────┼────┐
- ▼    ▼    ▼
- LOW  MED  HIGH
-      │
-      ▼
-Automated Response
-      │
- ├── IP Blocking
- └── Process Termination
-```
-
-**Implemented**
-
-* Multi-class security event classification.
-* Real-time communication through WebSockets.
-* Automated IP blocking and process termination.
-* FastAPI backend integration.
-* Next.js monitoring interface.
-* Developed within a **30-hour hackathon**.
-* **3rd Prize — S.A. Engineering College Hackathon**.
-
-<div align="center">
-
-**`[ repository → ]`**
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-```text
-┌──[ krishnamoorthy@github ]──[ ~/research ]
-└─$ cat research.md
-```
-
-<div align="center">
-
-# ASTRA LAB · IIT MADRAS
-
-### `Refining Indirect Call Targets at the Binary Level`
-
-</div>
 
 <table>
 <tr>
 <td width="48%" valign="top">
 
-### `problem`
+### The Problem
 
-Stripped binaries lack source-level information, symbols, and type information.
+Stripped binaries often lack source code, symbols, and type information.
 
-This makes precise **control-flow reconstruction** difficult, particularly when resolving indirect call targets.
+That makes precise **control-flow reconstruction** difficult, especially when resolving indirect call targets.
 
 </td>
 
 <td width="52%" valign="top">
 
-### `direction`
+### The Work
 
-Exploring how **value analysis and control-flow reconstruction** interact when refining indirect call targets at the binary level.
+Exploring the interaction between **value analysis and control-flow reconstruction** using:
 
-</td>
-</tr>
-</table>
-
-<br>
-
-```text
-┌─ analysis pipeline ──────────────────────────────────────────┐
-
-   BLOCK MEMORY MODEL
-           │
-           ▼
-        MBA-IR
-           │
-           ▼
-          SSA
-           │
-           ▼
-     VALUE TRACKING
-           │
-           ▼
-   FIXED-POINT REFINEMENT
-           │
-           ▼
-   INDIRECT CALL TARGETS
-           │
-           ▼
-      REFINED CFG
-
-└───────────────────────────────────────────────────────────────┘
-```
-
-**Areas**
-
-`Control-Flow Integrity`
-`Value Set Analysis`
-`Block-Based Points-to Analysis`
 `Block Memory Model`
 `MBA-IR`
 `SSA`
 `Value Tracking`
 `Fixed-Point Refinement`
 
----
-
-```text
-krishnamoorthy@github:~/research$ git log --oneline
-```
-
-```text
-research
-│
-├── binary-level analysis
-├── indirect call target refinement
-├── control-flow integrity
-├── value tracking
-└── block-based points-to analysis
-```
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-# `~/achievements`
+```text
+Indirect Call
+      │
+      ▼
+Value Analysis
+      │
+      ▼
+Target Refinement
+      │
+      ▼
+Control-Flow Graph
+      │
+      ▼
+Improved Precision
+```
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-```text
-03
-```
-
-**PRIZE**
-
-S.A. Engineering College
-Hackathon
-
-</td>
-
-<td align="center" width="25%">
-
-```text
-84.59
-```
-
-**ROC-AUC**
-
-RetainIQ
-
-</td>
-
-<td align="center" width="25%">
-
-```text
-7,043
-```
-
-**RECORDS**
-
-Telco Dataset
-
-</td>
-
-<td align="center" width="25%">
-
-```text
-30h
-```
-
-**BUILD**
-
-AutoShield
-
-</td>
-</tr>
-</table>
-
 ---
-
-```text
-┌──[ krishnamoorthy@github ]──[ ~/learning ]
-└─$ cat certifications.txt
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Data Science for Engineers**
-NPTEL · 2026
-
-**Java Programming**
-HackerRank Certified · 2025
-
-**Python Essentials**
-Cisco Networking Academy · 2025
-
-</td>
-
-<td width="50%" valign="top">
-
-**LLMs Workshop**
-IIT Madras · SHAAST · 2026
-
-**Full Stack Developer Bootcamp**
-Webzenith Solutions · 2026
-
-**DNA-Based Data Storage**
-Vel Tech · 2025
-
-</td>
-</tr>
-</table>
-
----
-
-```text
-krishnamoorthy@github:~$ cat education.txt
-```
 
 <div align="center">
 
-### B.E. COMPUTER SCIENCE & ENGINEERING
-
-**S.A. Engineering College · Chennai**
-
-`2024 – Present`    **CGPA: 8.3 / 10**
+## TECH STACK
 
 <br>
 
-`Class XII  73.6%`  ·  `Class X  85%`
+<img src="https://skillicons.dev/icons?i=python,c,js,react,nextjs,fastapi,docker,postgres,supabase,git,github" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/XGBoost-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAP-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Render-161B22?style=flat-square&logo=render&logoColor=46E3B7"/>
 
 </div>
 
@@ -506,13 +230,106 @@ krishnamoorthy@github:~$ cat education.txt
 
 <div align="center">
 
-# `~/activity`
+## BY THE NUMBERS
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 84.59%
+
+ROC-AUC
+**RetainIQ**
+
+</td>
+
+<td align="center">
+
+### 7,043
+
+Records
+**Telco Dataset**
+
+</td>
+
+<td align="center">
+
+### 30h
+
+Development
+**AutoShield**
+
+</td>
+
+<td align="center">
+
+### 🥉
+
+3rd Prize
+**Hackathon**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## LEARNING
+
+</div>
+
+<p align="center">
+
+`NPTEL · Data Science for Engineers`
+  •  
+`HackerRank · Java`
+  •  
+`Cisco · Python Essentials`
+
+<br><br>
+
+`IIT Madras · LLMs Workshop`
+  •  
+`Webzenith · Full Stack`
+  •  
+`Vel Tech · DNA Data Storage`
+
+</p>
+
+---
+
+<div align="center">
+
+## EDUCATION
+
+**B.E. Computer Science & Engineering**
+S.A. Engineering College · Chennai
+
+`2024 – Present`   ·   **CGPA 8.3 / 10**
+
+<br>
+
+`Class XII · 73.6%`    `Class X · 85%`
+
+</div>
+
+---
+
+<div align="center">
+
+## GITHUB ACTIVITY
 
 <br>
 
 <a href="https://github.com/KRISHNA-K19">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-K19&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=7EE787&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_radius=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-K19&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=7EE787&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="170"/>
 
 </a>
 
@@ -520,7 +337,7 @@ krishnamoorthy@github:~$ cat education.txt
 
 <a href="https://github.com/KRISHNA-K19">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-K19&layout=compact&langs_count=7&hide_border=true&title_color=7EE787&text_color=C9D1D9&bg_color=0D1117&border_radius=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-K19&layout=compact&langs_count=7&hide_border=true&title_color=7EE787&text_color=C9D1D9&bg_color=0D1117" height="170"/>
 
 </a>
 
@@ -532,32 +349,30 @@ krishnamoorthy@github:~$ cat education.txt
 
 ---
 
+<div align="center">
+
 ```text
-krishnamoorthy@github:~$ ./connect.sh
+$ git status
 
-[+] github      → github.com/KRISHNA-K19
-[+] linkedin    → linkedin.com/in/krishnamoorthykumar
-[+] email       → krishnamoorthyk.cse@gmail.com
-
-[+] status      → building
-[+] research    → active
-[+] learning    → continuous
+building      ✓
+research      ✓
+learning      ✓
 
 $ _
 ```
 
-<div align="center">
+<br>
 
 <a href="https://github.com/KRISHNA-K19">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=7EE787"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7EE787"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/krishnamoorthykumar">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="mailto:krishnamoorthyk.cse@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
@@ -565,5 +380,3 @@ $ _
 <sub>Build systems. Study problems. Ship solutions.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:0F2D22,75:0B1F18,100:050505&height=110&section=footer"/>
